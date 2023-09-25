@@ -84,6 +84,14 @@ i {
   font-size: 2em;
 }
 
+#contact a:visited {
+  color: black;
+}
+
+#contact a:hover {
+  color: #0a66c2;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
